@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, Soy Jose Alfredo Ricardez Perez</h1>
 <h3 align="center">Apasionado del mundo de los datos. Explorador incansable en busca de información oculta y patrones significativos. Me encanta utilizar SQL, Python, Power BI y estoy en constante estudio de Java. Aplico estas tecnologías para descubrir conocimientos valiosos y tomar decisiones basadas en datos con un impacto transformador.</h3>
 
-- 🔭 Actualmente estoy trabajando en un proyecto de una **Biblioteca**
-
 - 🌱 Actualmente estoy aprendiendo **Java**
 
 - 📫 Cómo ponerse en contacto conmigo **josealricardez@outlook.com**
